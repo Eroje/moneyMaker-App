@@ -1,2 +1,2 @@
 # moneyMaker-App
-This is a money maker App Usinf C# in a .Net Framework 
+This is a money maker App Using C# in a .Net Framework 
